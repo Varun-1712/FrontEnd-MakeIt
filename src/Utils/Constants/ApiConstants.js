@@ -1,7 +1,7 @@
 export const BASE_URL = import.meta.env.VITE_SOME_VALUE;
 export const PINCODE_TO_CITY_URL = "https://api.postalpincode.in/pincode/";
 
-export const STORAGE_URL = "https://mongodb-storage.herokuapp.com/";
+export const STORAGE_URL = "https://storage-makeit.vercel.app/";
 
 export const AUTH_URL = BASE_URL + "auth/";
 export const USER_URL = BASE_URL + "user/";
