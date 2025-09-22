@@ -66,7 +66,8 @@ You will also see any lint errors in the console.
 
 ## S-Rank-Coders
 ### Team members: 
- * [Master Ayush](https://github.com/WeryZebra-Yue)  
+ * [Master Ayush](https://github.com/WeryZebra-Yue)
+ * [Varun Thummar](https://github.com/Varun-1712)
  * [Raj Varsani](https://github.com/RajVarsani)
 
 
